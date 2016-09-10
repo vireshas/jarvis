@@ -5,7 +5,7 @@
   "author": "Viresh",
   "description": "Your friendly bot",
   "dependencies": {
-    "hubot": "git@gitlab.com:souked/hubot.git",
+    "hubot": "git@github.com:vireshas/hubot.git",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.2.6",
     "hubot-google-translate": "^0.2.0",
